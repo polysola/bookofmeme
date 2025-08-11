@@ -9,8 +9,8 @@ export const siteConfig = {
   // URLs và Links
   urls: {
     website: "https://bookofogmemes.xyz",
-    buyLink: "https://ip.world",
-    contractAddress: "TBA"
+    buyLink: "https://ip.world/token/0xfC0450e7006A4bAd824677FB287Fb67ce3CC2C16",
+    contractAddress: "0xfC0450e7006A4bAd824677FB287Fb67ce3CC2C16"
   },
 
   // Hình ảnh
