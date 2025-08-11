@@ -34,7 +34,7 @@ export const siteConfig = {
     },
     {
       name: "Twitter/X", 
-      href: "https://x.com/BookofOG_PULSE",
+      href: "https://x.com/BOOM_Pulse",
       icon: "https://bookofogmemes.xyz/icons/twitter.svg"
     },
     {
