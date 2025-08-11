@@ -1,10 +1,10 @@
 // Site Configuration - Thay đổi tất cả nội dung tại đây
 export const siteConfig = {
   // Thông tin cơ bản
-  name: "THE BOOK OF OG MEMES STORY ",
-  title: "THE BOOK OF OG MEMES STORY",
+  name: "THE BOOK OF OG MEMES PULSE ",
+  title: "THE BOOK OF OG MEMES PULSE",
   subtitle: "OG MEMES",
-  description: "Story enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
+  description: "PULSE enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
   
   // URLs và Links
   urls: {
@@ -34,7 +34,7 @@ export const siteConfig = {
     },
     {
       name: "Twitter/X", 
-      href: "https://x.com/BookofOG_Story",
+      href: "https://x.com/BookofOG_PULSE",
       icon: "https://bookofogmemes.xyz/icons/twitter.svg"
     },
     {
@@ -44,7 +44,7 @@ export const siteConfig = {
     },
     {
       name: "Telegram",
-      href: "https://t.me/BookofOGMeme_StoryBookofOGMeme_StoryBookofOGMeme_Story", 
+      href: "https://t.me/BookofOGMeme_Pulse", 
       icon: "https://bookofogmemes.xyz/icons/telegram.svg"
     },
     {
@@ -69,8 +69,8 @@ export const siteConfig = {
     
     about: {
       title1: "WHAT IS",
-      title2: "BOOK OF OG MEMES STORY?",
-      description: "Story enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Since its inception, Book of OG Memes has become a beloved icon within the crypto community, known for its laid-back and wise demeanor. Created by meme legends, this collection finally makes its debut on the Solana chain. Join our vibrant community and enjoy the ride with the OG Memes!",
+      title2: "BOOK OF OG MEMES PULSE?",
+      description: "PULSE enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Since its inception, Book of OG Memes has become a beloved icon within the crypto community, known for its laid-back and wise demeanor. Created by meme legends, this collection finally makes its debut on the Solana chain. Join our vibrant community and enjoy the ride with the OG Memes!",
       buttonText: "BUY"
     },
 
@@ -111,9 +111,9 @@ export const siteConfig = {
 
   // SEO Metadata
   seo: {
-    title: "THE BOOK OF OG MEMES STORY",
-    description: "Story enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
-    keywords: ["book of og memes", "Story", "memes", "crypto", "boom", "defi"],
+    title: "THE BOOK OF OG MEMES PULSE",
+    description: "PULSE enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
+    keywords: ["book of og memes", "PULSE", "memes", "crypto", "boom", "defi"],
     author: "Book of OG Memes",
     twitterHandle: "@"
   },
