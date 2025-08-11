@@ -59,11 +59,11 @@ export const siteConfig = {
     }
   ],
 
-  // Nội dung sections
+
   content: {
     hero: {
       title1: "THE BOOK OF",
-      title2: "OG MEMES", 
+      title2: "OG MEMES PULSE", 
       buttonText: "BUY!"
     },
     

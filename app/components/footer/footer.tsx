@@ -19,8 +19,7 @@ const Footer = ({ className }: FooterProps) => {
               Book of OG Memes
             </Link>
             <p className="text-gray-400 mb-4 max-w-md">
-              Bộ sưu tập những meme kinh điển nhất từ những ngày đầu của internet. 
-              Lưu giữ và chia sẻ văn hóa meme với cộng đồng.
+    
             </p>
             <div className="flex space-x-4">
               {/* Social Links */}
