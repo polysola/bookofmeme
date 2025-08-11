@@ -79,31 +79,7 @@ export const FooterSection = ({ className }: FooterSectionProps) => {
             </a>
           </div>
 
-          {/* Disclaimer */}
-          <div className="border-t border-white/20 pt-6">
-            <p className="text-white/60 text-sm mb-4 max-w-2xl mx-auto leading-relaxed">
-              This is a meme token created for entertainment purposes. 
-              Please do your own research before investing. Cryptocurrency investments are risky.
-            </p>
-            
-            <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-white/40 text-xs">
-              <div>
-                © {currentYear} {siteConfig.name}. All rights reserved.
-              </div>
-              <div className="flex gap-4">
-                <span>Made with 💚 by the community</span>
-                <span>•</span>
-                <a 
-                  href={siteConfig.urls.website} 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="hover:text-lime-400 transition-colors"
-                >
-                  Official Website
-                </a>
-              </div>
-            </div>
-          </div>
+        
         </div>
       </div>
     </footer>
