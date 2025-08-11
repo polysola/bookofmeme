@@ -4,13 +4,13 @@ export const siteConfig = {
   name: "THE BOOK OF OG MEMES STORY ",
   title: "THE BOOK OF OG MEMES STORY",
   subtitle: "OG MEMES",
-  description: "Solana enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
+  description: "Story enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
   
   // URLs và Links
   urls: {
     website: "https://bookofogmemes.xyz",
-    buyLink: "https://raydium.io/swap/?inputMint=F9VrtPRZBj7fiFdu3675YXpZWsCcHgzoCzTM8zyjbonk&outputMint=sol",
-    contractAddress: "F9VrtPRZBj7fiFdu3675YXpZWsCcHgzoCzTM8zyjbonk"
+    buyLink: "https://ip.world",
+    contractAddress: "TBA"
   },
 
   // Hình ảnh
@@ -34,7 +34,7 @@ export const siteConfig = {
     },
     {
       name: "Twitter/X", 
-      href: "https://x.com/boomcoinsolana",
+      href: "https://x.com/BookStory_IP",
       icon: "https://bookofogmemes.xyz/icons/twitter.svg"
     },
     {
@@ -44,17 +44,17 @@ export const siteConfig = {
     },
     {
       name: "Telegram",
-      href: "https://t.me/theboomportal", 
+      href: "https://t.me/BookofOGMeme_StoryBookofOGMeme_StoryBookofOGMeme_Story", 
       icon: "https://bookofogmemes.xyz/icons/telegram.svg"
     },
     {
       name: "DexScreener",
-      href: "https://dexscreener.com/solana/2rACkXMREA9FgKd1C9CiU8aVBRyVGvLFtjXi8dg1dHFc",
+      href: "https://dexscreener.com/",
       icon: "https://bookofogmemes.xyz/icons/dexscreener.svg"
     },
     {
       name: "DexTools",
-      href: "https://www.dextools.io/app/en/solana/pair-explorer/2rACkXMREA9FgKd1C9CiU8aVBRyVGvLFtjXi8dg1dHFc",
+      href: "https://www.dextools.io/",
       icon: "https://bookofogmemes.xyz/icons/dextools.svg"
     }
   ],
@@ -69,8 +69,8 @@ export const siteConfig = {
     
     about: {
       title1: "WHAT IS",
-      title2: "BOOK OF OG MEMES?",
-      description: "Solana enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Since its inception, Book of OG Memes has become a beloved icon within the crypto community, known for its laid-back and wise demeanor. Created by meme legends, this collection finally makes its debut on the Solana chain. Join our vibrant community and enjoy the ride with the OG Memes!",
+      title2: "BOOK OF OG MEMES STORY?",
+      description: "Story enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Since its inception, Book of OG Memes has become a beloved icon within the crypto community, known for its laid-back and wise demeanor. Created by meme legends, this collection finally makes its debut on the Solana chain. Join our vibrant community and enjoy the ride with the OG Memes!",
       buttonText: "BUY"
     },
 
@@ -112,10 +112,10 @@ export const siteConfig = {
   // SEO Metadata
   seo: {
     title: "THE BOOK OF OG MEMES STORY",
-    description: "Solana enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
-    keywords: ["book of og memes", "solana", "memes", "crypto", "boom", "defi"],
+    description: "Story enthusiasts are embracing Book of OG Memes, moving away from the frog meme trend. Join our vibrant community and enjoy the ride with the OG Memes!",
+    keywords: ["book of og memes", "Story", "memes", "crypto", "boom", "defi"],
     author: "Book of OG Memes",
-    twitterHandle: "@boomcoinsolana"
+    twitterHandle: "@"
   },
 
   // Theme Colors

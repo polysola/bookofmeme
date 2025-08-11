@@ -27,7 +27,7 @@ export default function Document() {
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         
         {/* Favicon */}
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/boom.png" />
       </Head>
       <body>
         <Main />
