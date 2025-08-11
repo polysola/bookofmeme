@@ -5,7 +5,11 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '**',
+        hostname: 'bookofogmemes.xyz',
+      },
+      {
+        protocol: 'https',
+        hostname: 'fonts.googleapis.com',
       },
     ],
     formats: ['image/webp', 'image/avif'],

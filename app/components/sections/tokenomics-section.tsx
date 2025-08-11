@@ -68,7 +68,7 @@ export const TokenomicsSection = ({ className }: TokenomicsSectionProps) => {
 
         {/* Features Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
-          {content.tokenomics.features.map((feature, index) => (
+          {content.tokenomics.features.map((feature) => (
             <div
               key={feature.title}
               className={`${feature.bgColor} p-6 rounded-lg border-4 border-black shadow-lg text-center hover:shadow-xl transition-all duration-500 transform hover:scale-110 hover:rotate-2 cursor-pointer`}

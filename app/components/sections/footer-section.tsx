@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import { siteConfig } from '@/app/config/site-config'
 
 interface FooterSectionProps {
@@ -40,10 +41,12 @@ export const FooterSection = ({ className }: FooterSectionProps) => {
                 style={{ animationDelay: `${index * 0.1}s` }}
                 title={social.name}
               >
-                <img 
+                <Image 
                   src={social.icon} 
                   alt={social.name} 
-                  className="w-6 h-6 opacity-80 hover:opacity-100 transition-opacity"
+                  width={24}
+                  height={24}
+                  className="opacity-80 hover:opacity-100 transition-opacity"
                 />
               </a>
             ))}

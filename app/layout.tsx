@@ -31,7 +31,11 @@ export const metadata: Metadata = {
     description: siteConfig.seo.description,
     creator: siteConfig.seo.twitterHandle,
   },
-  viewport: "width=device-width, initial-scale=1",
+};
+
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
   themeColor: siteConfig.theme.primary,
 };
 
@@ -42,28 +46,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={inter.variable}>
-      <head>
-        {/* Preload fonts */}
-        <link 
-          rel="preload" 
-          href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Bangers&display=swap" 
-          as="style"
-        />
-        <link 
-          href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Bangers&display=swap" 
-          rel="stylesheet" 
-        />
-        
-        {/* Preload critical resources */}
-        <link rel="preload" href={siteConfig.images.logo} as="image" />
-        <link rel="preload" href={siteConfig.images.heroImage} as="image" />
-        <link rel="preload" href={siteConfig.images.backgroundVideo.desktop} as="video" type="video/mp4" />
-        <link rel="preload" href={siteConfig.images.backgroundVideo.mobile} as="video" type="video/mp4" />
-        
-        {/* DNS prefetch for external domains */}
-        <link rel="dns-prefetch" href="https://bookofogmemes.xyz" />
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
-      </head>
+
       <body className="font-sans antialiased min-h-screen overflow-x-hidden">
         {children}
       </body>
