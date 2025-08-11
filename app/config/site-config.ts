@@ -9,8 +9,8 @@ export const siteConfig = {
   // URLs và Links
   urls: {
     website: "https://bookofogmemes.xyz",
-    buyLink: "https://pump.tires/token/TBA",
-    contractAddress: "TBA"
+    buyLink: "https://pump.tires/token/0x99dd0FAbA875e53b3D2aB01C15C27B6A337eaFaD",
+    contractAddress: "0x99dd0FAbA875e53b3D2aB01C15C27B6A337eaFaD"
   },
 
   // Hình ảnh
